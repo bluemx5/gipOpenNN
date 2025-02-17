@@ -2,7 +2,7 @@
  * gipOpenNN.h
  *
  *  Created on: 12 Aug 2021
- *      Author: oznur
+ *      Author: burak
  *      Hardly edited by: Noyan
  */
 
